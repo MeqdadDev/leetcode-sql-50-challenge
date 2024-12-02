@@ -3,6 +3,6 @@
 ## Challenges:
 
 ### [1. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/)
-[PostgreSQL Solution](1757-Recyclable-and-Low-Fat-Products/postgres-sol.sql)
+[PostgreSQL Solution](1-Recyclable-and-Low-Fat-Products/postgres-sol.sql)
 
 
