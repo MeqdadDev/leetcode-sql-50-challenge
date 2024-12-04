@@ -8,3 +8,5 @@
 ### [2. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/)
 [PostgreSQL Solution](2-Find-Customer-Referee/2-postgres-sol.sql)
 
+### [3. Big Countries](https://leetcode.com/problems/big-countries/description/)
+[PostgreSQL Solution](3-Big-Countries/3-postgres-sol.sql)
