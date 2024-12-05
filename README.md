@@ -10,3 +10,6 @@
 
 ### [3. Big Countries](https://leetcode.com/problems/big-countries/description/)
 [PostgreSQL Solution](3-Big-Countries/3-postgres-sol.sql)
+
+### [4. Article Views 1](https://leetcode.com/problems/article-views-i/description)
+[PostgreSQL Solution](4-Article-Views-1/4-postgres-sol.sql)
