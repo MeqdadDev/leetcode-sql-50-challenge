@@ -13,3 +13,6 @@
 
 ### [4. Article Views 1](https://leetcode.com/problems/article-views-i/description)
 [PostgreSQL Solution](4-Article-Views-1/4-postgres-sol.sql)
+
+### [5. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description)
+[PostgreSQL Solution](5-Invalid-Tweets/5-postgres-sol.sql)
