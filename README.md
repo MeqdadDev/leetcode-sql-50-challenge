@@ -16,3 +16,6 @@
 
 ### [5. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description)
 [PostgreSQL Solution](5-Invalid-Tweets/5-postgres-sol.sql)
+
+### [6. Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/)
+[PostgreSQL Solution](6-Replace-Employee-ID-With-The-Unique-Identifier/6-postgres-sol.sql)
