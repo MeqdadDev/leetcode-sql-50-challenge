@@ -19,3 +19,6 @@
 
 ### [6. Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/)
 [PostgreSQL Solution](6-Replace-Employee-ID-With-The-Unique-Identifier/6-postgres-sol.sql)
+
+### [7. Product Sales Analysis 1](https://leetcode.com/problems/product-sales-analysis-i/description)
+[PostgreSQL Solution](7-Product-Sales-Analysis-1/7-postgres-sol.sql)
