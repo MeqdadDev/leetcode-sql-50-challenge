@@ -22,3 +22,6 @@
 
 ### [7. Product Sales Analysis 1](https://leetcode.com/problems/product-sales-analysis-i/description)
 [PostgreSQL Solution](7-Product-Sales-Analysis-1/7-postgres-sol.sql)
+
+### [8. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description)
+[PostgreSQL Solution](8-Customer-Who-Visited-but-Did-Not-Make-Any-Transactions/8-postgres-sol.sql)
