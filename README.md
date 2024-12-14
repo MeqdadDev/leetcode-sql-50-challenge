@@ -25,3 +25,6 @@
 
 ### [8. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description)
 [PostgreSQL Solution](8-Customer-Who-Visited-but-Did-Not-Make-Any-Transactions/8-postgres-sol.sql)
+
+### [9. Rising Temperature](https://leetcode.com/problems/rising-temperature/description)
+[PostgreSQL Solution](9-Rising-Temperature/9-postgres-sol.sql)
