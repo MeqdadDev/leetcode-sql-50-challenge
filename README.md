@@ -29,5 +29,5 @@
 ### [9. Rising Temperature](https://leetcode.com/problems/rising-temperature/description)
 [PostgreSQL Solution](9-Rising-Temperature/9-postgres-sol.sql)
 
-### [10. Average Time of Process per Machine](https://leetcode.com/problems/rising-temperature/description)
+### [10. Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/description/)
 [PostgreSQL Solution](10-Average-Time-of-Process-per-Machine/10-postgres-sol.sql)
