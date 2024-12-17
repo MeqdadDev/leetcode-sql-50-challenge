@@ -31,3 +31,6 @@
 
 ### [10. Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/description/)
 [PostgreSQL Solution](10-Average-Time-of-Process-per-Machine/10-postgres-sol.sql)
+
+### [11. Employee Bonus](https://leetcode.com/problems/employee-bonus/description/)
+[PostgreSQL Solution](11-Employee-Bonus/11-postgres-sol.sql)
