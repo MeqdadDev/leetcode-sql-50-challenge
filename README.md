@@ -34,3 +34,6 @@
 
 ### [11. Employee Bonus](https://leetcode.com/problems/employee-bonus/description/)
 [PostgreSQL Solution](11-Employee-Bonus/11-postgres-sol.sql)
+
+### [12. Students and Examinations](https://leetcode.com/problems/students-and-examinations/description)
+[PostgreSQL Solution](12-Students-and-Examinations/12-postgres-sol.sql)
